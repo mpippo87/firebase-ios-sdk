@@ -41,8 +41,8 @@ Choose the Firebase products that you want installed in your app.
 
 <img src="docs/resources/SPMProducts.png">
 
-If you've installed FirebaseAnalytics, Add the `-ObjC` option to `Other Linker Flags`
-in the `Build Settings` tab.
+If you've installed FirebaseAnalytics, add the `-ObjC` option to `Other Linker Flags`
+in the `Build Settings` tab for each target in the project.
 
 If you're using FirebaseAnalytics, Xcode 12.0, and have an issue with
 device installation or archive uploading, see the workaround at
